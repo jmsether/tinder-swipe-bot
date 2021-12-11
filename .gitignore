@@ -2,3 +2,6 @@ secrets.py
 venv
 .vscode
 __pycache__
+chromedriver.exe
+cookies.pkl
+cookietest.json
